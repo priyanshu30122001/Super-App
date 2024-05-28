@@ -19,7 +19,7 @@
     justify-content: center;
     align-items: center;
 }
-h1{
+.grid-item2 h1{
     font-family: 'Single Day', cursive;
     color: rgba(114, 219, 115, 1);
     font-size: 3rem;
@@ -32,6 +32,6 @@ h1{
 
 }
 
-input{
+.grid-item2 input{
     background-color:  rgba(41, 41, 41, 1);
 }

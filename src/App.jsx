@@ -12,9 +12,9 @@ return(
    <BrowserRouter>
      <Routes>
        <Route path='/' element={<Form/>}/>  
-       <Route path='/genre' element={<Genre/>}/> 
-       <Route path='/info' element={<Info/>}/> 
-       <Route path='/movies' element={<Movies/>}/> 
+       <Route path='/Genre' element={<Genre/>}/> 
+       <Route path='/Info' element={<Info/>}/> 
+       <Route path='/Movies' element={<Movies/>}/> 
        <Route path='*' element={<NotFound/>} />
      </Routes> 
    </BrowserRouter>  

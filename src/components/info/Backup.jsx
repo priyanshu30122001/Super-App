@@ -1,10 +1,10 @@
 import React, { useEffect,useState } from 'react'
-import profile from './images/image14.png';
-import cloud from './images/Vector.png'
-import wind from './images/wind.png';
-import pressure from './images/pressure.png'
-import humidity from './images/humidity.png'
-// import newsimg from './newsimg.png'
+import profile from './image14.png';
+import cloud from './Vector.png'
+import wind from './wind.png';
+import pressure from './pressure.png'
+import humidity from './humidity.png'
+import newsimg from './newsimg.png'
 import { CountdownCircleTimer } from 'react-countdown-circle-timer'
 
 export default function Info() {

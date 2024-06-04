@@ -1,37 +1,8 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
-.container{
-   display: flex;
-   flex-direction: row;
-   height: 100vh ;
-}
 .grid-item1{
     flex: 1;
     background-image:url(../../assets/image13.png);
     background-position: center;
     background-repeat: no-repeat;
-}
-.grid-item2{
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-    background-color: black;
-    justify-content: center;
-    align-items: center;
-}
-.grid-item2 h1{
-    font-family: 'Single Day', cursive;
-    color: rgba(114, 219, 115, 1);
-    font-size: 3rem;
-}
-.grid-item2 form{
-    display: flex;
-    gap: 1rem;
-    flex-direction: column;
-    max-width: 50vw;
+    background-size:cover;
 
-}
-
-.grid-item2 input{
-    background-color:  rgba(41, 41, 41, 1);
-}
+}  
